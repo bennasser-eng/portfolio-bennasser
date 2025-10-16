@@ -1,14 +1,20 @@
-# Portfolio - [Votre Prénom Nom]
+# Portfolio - [Ahmed Bennasser]
 
 ## 📚 Projets
 
-### 🎮 Projet POO - Systèmes MultiAgents
+### Projet POO - Systèmes MultiAgents
 - **Description** : Simulation de systèmes multiagents en Java
 - **Technologies** : Java, Programmation Orientée Objet, Git
 - **Dossier** : `projet_poo/`
 
+### Projet Covid :
+
+### PRojet Geometrie:
+
+
+
 ## 🎓 Formation
-- Élève ingénieur - ENSIMAG
+- Étudiant  ingénieur - ENSIMAG
 
 ## 📫 Contact
-- GitHub : [bennasser1](https://github.com/bennasser1)
+- GitHub : [bennasser1](https://github.com/bennasser-eng/portfolio-bennasser)
