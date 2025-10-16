@@ -17,4 +17,4 @@
 - Étudiant  ingénieur - ENSIMAG
 
 ## 📫 Contact
-- GitHub : [bennasser1](https://github.com/bennasser-eng/portfolio-bennasser)
+- GitHub : [bennasser](https://github.com/bennasser-eng/portfolio-bennasser)
