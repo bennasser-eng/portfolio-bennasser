@@ -1,4 +1,4 @@
-# TPL 2A POO
+# Projet 2A POO
 
 Les ressources distribuées contiennent:
 
@@ -10,8 +10,6 @@ Les ressources distribuées contiennent:
 ### Avec un makefile?
 Un fichier Makefile est distribué pour facilement compiler et exécuter le fichier TestInvader.java
 
-Mais vu la taille de ce projet, il est ***très fortement recommandé d'utiliser un IDE*** pour compiler, exécuter et déboguer votre code!
-
 ### IDE Idea Intellij
 - créer un nouveau projet:
     - menu *File/New Project*
@@ -21,15 +19,6 @@ Mais vu la taille de ce projet, il est ***très fortement recommandé d'utiliser
     - clicker sur(*Add* puis "JARs & Directories" et sélectionner ~/Ensimag/2A/POO/TPL_2A_POO/lib
     - vous pouvez bien sûr utiliser git via l'interface d'idea Intellij
 
-### IDE VS Code
-- dans "~/Ensimag/2A/POO/TPL_2A_POO", lancer *code ."
-- si vous avez installé les bonnes extensions java (exécution, debogage...) il est possible que tout fonctionne sans rien faire de spécial.
-- s'il ne trouve pas la librairie, vous devez alors créer un vrai "projet" et configurer l'import du .jar.
-- pas vraiment d'aide pour ça, vous trouverez
-- vous pouvez bien sûr utiliser git via l'interface de VS code
-=======
-# Projet_POO
-=======
 # projet_POO
 >>>>>>> 815d38c3fafe0551df2e170d8b163905c694561f
 
