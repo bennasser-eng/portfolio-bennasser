@@ -1,4 +1,8 @@
+
 # TPL 2A POO
+=======
+# Projet 2A POO
+>>>>>>> b77a9c4472e7cee7e5dae9dc688febc51bf1559e
 
 Les ressources distribuées contiennent:
 
@@ -12,6 +16,8 @@ Un fichier Makefile est distribué pour facilement compiler et exécuter le fich
 
 Mais vu la taille de ce projet, il est ***très fortement recommandé d'utiliser un IDE*** pour compiler, exécuter et déboguer votre code!
 
+=======
+>>>>>>> b77a9c4472e7cee7e5dae9dc688febc51bf1559e
 ### IDE Idea Intellij
 - créer un nouveau projet:
     - menu *File/New Project*
@@ -30,6 +36,8 @@ Mais vu la taille de ce projet, il est ***très fortement recommandé d'utiliser
 =======
 # Projet_POO
 =======
+=======
+>>>>>>> b77a9c4472e7cee7e5dae9dc688febc51bf1559e
 # projet_POO
 >>>>>>> 815d38c3fafe0551df2e170d8b163905c694561f
 
